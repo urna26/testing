@@ -1,0 +1,31 @@
+important links
+
+logistic regression wit r tutorial:
+https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/logistic-regression-analysis-r/tutorial/
+
+different types of regression
+https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
+
+practisemodelling with datasets
+https://analyticsindiamag.com/popular-data-science-projects-for-aspiring-data-scientists/
+
+follow course fter paper completion
+https://www.csie.ntu.edu.tw/~yvchen/f105-adl/syllabus
+
+why least square error
+https://towardsdatascience.com/ml-notes-why-the-least-square-error-bf27fdd9a721
+
+amazing machine learning 
+https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7projects
+
+caret tutorial
+https://github.com/rlbarter/STAT-215A-Fall-2017/tree/master/week11
+
+7 techniquesfor data dimentionality reduction
+https://www.knime.com/blog/seven-techniques-for-data-dimensionality-reduction
+
+logisti regression in r
+https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/logistic-regression-analysis-r/tutorial/
+
+what do you mean by smooth function
+https://www.quora.com/What-is-a-smooth-function-And-why-is-it-important
